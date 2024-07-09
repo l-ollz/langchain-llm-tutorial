@@ -1,0 +1,3 @@
+langchain
+langchain-groq
+langserve[all]
